@@ -1,2 +1,2 @@
-# My-fisrst-test-in-C-
+# My--test-in-C++
 a first try on matrix by C++
